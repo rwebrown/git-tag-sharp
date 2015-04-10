@@ -11,7 +11,6 @@
     <copyright>Copyright 2015</copyright>
   </metadata>
   <files>
-    <file src="bin\Release\*.dll" target="lib" />
-    <file src="bin\Release\*.exe" target="lib" />
+    <file src="bin\Release\*.dll" target="lib\net45" />
   </files>
 </package>
