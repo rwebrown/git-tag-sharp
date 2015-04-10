@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Git-Tag</id>
+        <version>1.0</version>
+        <title>Git Tag</title>
+        <authors>RenWeb @ 2015</authors>
+        <owners />
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Creates a git tag by specifying the parameters as given here: https://github.com/Saanch/git-tag-sharp</description>
+        <dependencies>
+        </dependencies>
+    </metadata>
+</package>
